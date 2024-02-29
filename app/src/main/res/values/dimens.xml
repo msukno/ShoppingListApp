@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_extra_small">3dp</dimen>
+    <dimen name="padding_small">6dp</dimen>
+    <dimen name="padding_medium">12dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    <dimen name="padding_extra_large">48dp</dimen>
+    <dimen name="image_size">55dp</dimen>
+    <dimen name="image_size2">40dp</dimen>
+    <dimen name="noteCard_round_corner">15dp</dimen>
+    <dimen name="noteCard_border">1dp</dimen>
+    <dimen name="card_elevation">6dp</dimen>
+</resources>
